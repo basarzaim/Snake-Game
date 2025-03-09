@@ -18,5 +18,9 @@ A simple **Snake Game** built using **Python's Turtle module**. The player contr
    ```sh
    python main.py
 
+## 🎮 Game Preview  
+![Snake Game](game-preview.gif)
+
+
 ## 📜 License
 This project is open-source under the MIT License. Contributions are welcome!
