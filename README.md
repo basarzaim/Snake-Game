@@ -14,3 +14,8 @@ A simple **Snake Game** built using **Python's Turtle module**. The player contr
 2. Clone this repository:  
    ```sh
    git clone https://github.com/your-username/Snake-Game.git
+3. Run the game
+   ```python main.py
+
+## 📜 License
+This project is open-source under the MIT License. Contributions are welcome!
